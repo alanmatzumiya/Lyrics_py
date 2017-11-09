@@ -11,7 +11,12 @@ Programa en python para buscar la letra de una canción.
 Aplicación hecha en python, permite buscar las letras de las canciones en base a los resultados de busqueda realizados en **Google**. Tiene soporte para resultados donde te redireccionan a:
   * Google playmusic
   * Metrolyrics.com
-  
+
+## Instalacion
+ ```
+    pip install -r requirements.txt
+ ```
+
 ## Uso
  ```
     python lyrics.py "Nombre de la cancion"
