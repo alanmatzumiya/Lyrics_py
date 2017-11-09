@@ -1,0 +1,9 @@
+#bs4 from BeautifulSoup
+bs4
+
+#requests
+requests[security]
+
+#lxml
+lxml
+
