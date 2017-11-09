@@ -4,6 +4,7 @@ Programa en python para buscar la letra de una canción.
 ## Dependencias
 - BeautifulSoup 
 - Request
+- lxml
 
 ## Info
 
